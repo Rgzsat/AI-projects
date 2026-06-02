@@ -37,3 +37,7 @@ VIII. Gilbert Zequera, R.A.; Rassõlkin, A.; Vaimann, T.; Kallaste, A. “Charge
 State Estimation of Battery Energy Storage Systems Through Transformer Models,”
 in IEEE Access, vol. 13, pp. 17733–17744, 2025, doi: 10.1109/ACCESS.2025.3532858.
 IEEE 2025.
+
+IX. Gilbert Zequera, R.A.; Rassõlkin, A.; Vaimann, T.; Kallaste. “Kolmogorov-Arnold
+Networks for algorithm design in Battery Energy Storage System applications.”
+Energy Reports, 13, 2664−2677. DOI: 10.1016/j.egyr.2025.02.002.
