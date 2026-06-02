@@ -32,3 +32,8 @@ Algorithms and Binary Classifiers.” Applied Sciences 13.13 (2023): 7597.
 VII. Gilbert Zequera, R.A.; Rassõlkin, A.; Vaimann, T.; Kallaste, A.
 "Deep Learning methodology for charging management applications in battery
 cells based on Neural Networks." IEEE Transactions on Intelligent Vehicles (2024).
+
+VIII. Gilbert Zequera, R.A.; Rassõlkin, A.; Vaimann, T.; Kallaste, A. “Charge Diagnostics and
+State Estimation of Battery Energy Storage Systems Through Transformer Models,”
+in IEEE Access, vol. 13, pp. 17733–17744, 2025, doi: 10.1109/ACCESS.2025.3532858.
+IEEE 2025.
