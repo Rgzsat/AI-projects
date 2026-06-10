@@ -24,3 +24,8 @@ validated, and evaluated all Data Science-based Techniques using Python
 programming language. He also wrote the full draft and presented this paper in the
 2023 International Conference on Electrical Drives and Power Electronics (EDPE),
 The High Tatras, Slovakia.
+
+VI. Rolando Antonio Gilbert Zequera is the primary author of this article. He coded,
+validated, and evaluated all the Regression and Binary Classifiers algorithms using
+Python programming language. He also wrote the full draft of the paper and
+developed the research methodology.
