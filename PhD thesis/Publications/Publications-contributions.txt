@@ -8,4 +8,9 @@ He conducted the literature review and wrote the full draft of the paper.
 II. Rolando Antonio Gilbert Zequera is the third author of this article. He collaborated
 in the literature review and drafting of the paper.
 
-III. 
+III. Rolando Antonio Gilbert Zequera is primary author of this article. He performed the
+simulations and wrote the full draft of the paper. He presented this article in the
+2022 IEEE 20th International Power Electronics and Motion Control Conference
+(PEMC), Brasov, Romania.
+
+
