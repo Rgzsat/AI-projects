@@ -41,3 +41,8 @@ IEEE 2025.
 IX. Gilbert Zequera, R.A.; Rassõlkin, A.; Vaimann, T.; Kallaste. “Kolmogorov-Arnold
 Networks for algorithm design in Battery Energy Storage System applications.”
 Energy Reports, 13, 2664−2677. DOI: 10.1016/j.egyr.2025.02.002.
+
+X. Gilbert Zequera, R.A. “A method, a device, a computer-readable medium storing
+instructions and a software product for battery energy storage system (BESS)
+management using Kolmogorov-Arnold Networks (KANs).” Estonian Patent
+Application No. P20250008, filled February 6, 2025.
