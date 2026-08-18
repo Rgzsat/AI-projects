@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 import glob
 
-path = # Use your path here
+path = "USE YOUR TESTING PATH"
 #all_files = glob.glob(os.path.join(path , "/*.csv"))
 files = Path(path).glob('*.csv')  # .rglob to get subdirectories
 from sklearn.preprocessing import MinMaxScaler
