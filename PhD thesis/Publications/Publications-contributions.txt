@@ -36,3 +36,10 @@ validated, and evaluated the different Neural Networks categories within the
 framework of TensorFlow and Keras as a high-level Application Programming
 Interface (API) . In addition, he is solely responsible of the algorithm design and the
 Deep Learning methodology.
+
+VIII. Rolando Antonio Gilbert Zequera is the primary author of this article. He conducted
+all the experimental measurements and wrote the full draft of the paper. He coded,
+validated, and evaluated the corresponding Neural Networks and Tranformer
+models within the framework of TensorFlow and Keras as a high-level Application
+Programming Interface (API). In addition, he is solely responsible of the algorithm
+design and Charge diagnostics methodology.
